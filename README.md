@@ -5,4 +5,4 @@ Majority of images from that project are from authors on CC0 or don't have any l
 Thanks for all authors of these images.
 
 ProjectX is unfinished rpg game project. Has written in Python.
-If you gonna get it, modify and finish or do something like thatm, leave any message how works go :). I'm really interested in.
+If you gonna get it, modify and finish or do something like that, leave any message how work goes :). I'm really interested in.
